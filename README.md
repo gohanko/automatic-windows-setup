@@ -1,4 +1,4 @@
-# win-setup
+# automatic-windows-setup
 A simple Powershell script to automate my Windows installation.
 gi
 Copy and paste into an admin shell to install.
